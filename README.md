@@ -1,1 +1,1 @@
-# Auditing-of-CPA
+# ![sj1](../../sj1.png)
